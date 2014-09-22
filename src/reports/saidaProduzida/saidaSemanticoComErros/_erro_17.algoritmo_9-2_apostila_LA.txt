@@ -1,0 +1,6 @@
+Linha 8: identificador racional nao declarado
+Linha 13: identificador racional nao declarado
+Linha 14: identificador racional nao declarado
+Linha 22: identificador racional nao declarado
+Linha 23: identificador racional nao declarado
+Fim da compilacao

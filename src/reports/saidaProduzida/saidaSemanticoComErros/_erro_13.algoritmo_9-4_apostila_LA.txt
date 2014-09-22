@@ -1,0 +1,23 @@
+Linha 3: identificador valor1 nao declarado
+Linha 3: identificador valor2 nao declarado
+Linha 6: identificador valor1 nao declarado
+Linha 6: identificador valor2 nao declarado
+Linha 7: identificador valor1 nao declarado
+Linha 9: identificador valor2 nao declarado
+Linha 13: identificador valor1 nao declarado
+Linha 13: identificador valor2 nao declarado
+Linha 16: identificador valor1 nao declarado
+Linha 16: identificador valor2 nao declarado
+Linha 17: identificador valor1 nao declarado
+Linha 19: identificador valor2 nao declarado
+Linha 23: identificador valor nao declarado
+Linha 26: identificador valor nao declarado
+Linha 27: identificador valor nao declarado
+Linha 29: identificador valor nao declarado
+Linha 44: identificador menorInteiro nao declarado
+Linha 46: identificador menorReal nao declarado
+Linha 50: identificador modulo nao declarado
+Linha 58: identificador menorReal nao declarado
+Linha 58: identificador modulo nao declarado
+Linha 58: identificador modulo nao declarado
+Fim da compilacao
